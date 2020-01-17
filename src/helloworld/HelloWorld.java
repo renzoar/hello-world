@@ -20,6 +20,8 @@ public class HelloWorld {
         System.out.println("branch: dev2");
         System.out.println("test1");
         System.out.println("line1");
+        System.out.println("line2");
+
     }
     
 }
